@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "coffee.jpg",
+    "role": "Illustrative cafe coffee",
+    "page": "https://unsplash.com/photos/white-cup-filled-with-latte-with-art-iJMHMXT5-5E",
+    "author": "Alina Kovalchuk",
+    "location": "Illustrative: Lublin, Poland",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "shop.jpg",
+    "role": "Puerto Princesa local shop",
+    "page": "https://unsplash.com/photos/a-small-open-air-shop-sells-goods-tLSSgisTsGs",
+    "author": "Bernd Dittrich",
+    "location": "San Manuel, Puerto Princesa City, Palawan, Philippines",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "automotive.jpg",
+    "role": "Illustrative auto garage",
+    "page": "https://unsplash.com/photos/a-car-that-is-sitting-on-top-of-a-lift-Hv_gKPOXmwE",
+    "author": "KC Shum",
+    "location": "Illustrative business photo",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "salon.jpg",
+    "role": "Illustrative salon interior",
+    "page": "https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E9%BB%92%E3%81%84%E9%9D%A9%E5%BC%B5%E3%82%8A%E3%81%AE%E6%A4%85%E5%AD%90%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%AB%E7%AB%8B%E3%81%A4%E7%99%BD%E3%81%84%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AE%E5%A5%B3%E6%80%A7-OKXwmdbdXkk",
+    "author": "Giorgio Trovato",
+    "location": "Illustrative business photo",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "hero-coast.jpg",
+    "role": "Palawan coastal aerial hero",
+    "page": "https://unsplash.com/photos/aerial-view-of-tropical-island-coastline-with-turquoise-water-Hsu_TFkhU38",
+    "author": "Bernd Dittrich",
+    "location": "Teneguiban, El Nido, Palawan, Philippines",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "island.jpg",
+    "role": "Island tour / beach",
+    "page": "https://unsplash.com/photos/aerial-view-of-a-lush-island-coastline-and-turquoise-reef-nblXK_2i11k",
+    "author": "Bernd Dittrich",
+    "location": "New Culaylayan, Linapacan, Palawan, Philippines",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "resort.jpg",
+    "role": "Palawan resort cottages",
+    "page": "https://unsplash.com/photos/tropical-bungalows-with-thatched-roofs-and-hammocks-XZOHwx4t9JU",
+    "author": "XT7 Core",
+    "location": "Palawan, Philippines",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "river-paddling.jpg",
+    "role": "Puerto Princesa Underground River",
+    "page": "https://commons.wikimedia.org/wiki/File:Underground_River,_Puerto_Princesa.jpg",
+    "author": "Bert Andone",
+    "location": "Puerto Princesa Subterranean River National Park, Palawan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "reuse": "Credit author and source, link license, indicate resizing/cropping; adapted image under same or compatible license."
+  },
+  {
+    "filename": "food.jpg",
+    "role": "Illustrative Filipino roasted chicken",
+    "page": "https://unsplash.com/photos/a-table-topped-with-two-white-plates-of-food-CMjCCUnGsd8",
+    "author": "Kristian Angelo",
+    "location": "Philippines; illustrative food",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "reuse": "Free commercial and noncommercial use; attribution appreciated. Illustrative business photos do not identify listed businesses."
+  },
+  {
+    "filename": "river.jpg",
+    "role": "Puerto Princesa Underground River cave entrance",
+    "page": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Underground_River.jpg",
+    "author": "Mike Gonzalez",
+    "location": "Puerto Princesa Subterranean River National Park, Palawan",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reuse": "Credit Mike Gonzalez and source, link license, indicate resizing/cropping; adapted image under same or compatible license."
+  }
+]
